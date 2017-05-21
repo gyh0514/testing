@@ -9,7 +9,7 @@ $(document).ready(function () {
         var num1 = $("#sevice").val();
         $("[type=radio]").is(check){
             var total = num1 * num2;
-            var message = "The cost isisisisisisisisis $"
+            var message = "The cost isisisisisisisisissssssssssssssssssssssss $"
         }
         
         $("p").html("<b>message</b>");
